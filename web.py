@@ -33,5 +33,3 @@ sl.text_input(
     on_change=add_todo,
     key="new_todo",
 )
-
-sl.session_state
